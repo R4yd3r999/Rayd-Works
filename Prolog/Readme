@@ -1,0 +1,14 @@
+Utilizando el predicado corte "!" de Prolog implemente los siguientes programas, cada numero es un programa diferente, separado.
+
+1- Implementar el predicado borrar_primera(X, Y, Z), que
+elimina la primera ocurrencia de X en la lista Y generando la
+lista Z.
+
+2- Implementar el predicado borrar_todas(X, Y, Z), que elimina
+todas las ocurrencias de X en la lista Y generando la lista Z.
+(sugerencia: utilizar el predicado auxiliar borrar_cabeza, que
+toma el elemento y al cabeza y devuelve la lista resultante).
+
+3- Implementar el predicado añadir_sin_duplicar(X, Y, Z) que
+crea la lista Z añadiendo X a la lista Y si y sólo si X no está en
+Y.
